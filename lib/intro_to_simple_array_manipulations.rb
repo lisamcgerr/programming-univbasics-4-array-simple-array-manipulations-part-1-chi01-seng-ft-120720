@@ -12,7 +12,6 @@ end
 
 def using_pop(array)
   using_pop = array.pop 
-
 end
 
 def pop_with_args(array)
@@ -21,10 +20,7 @@ def pop_with_args(array)
 end
 
 def using_shift(array)
-  array= ["Lagos", "Cape Town", "Nairobi", "San Francisco", "Gaborone", "New York", "Berlin", "London"]
-  array.shift
   using_shift = array.shift
-  
 end
 
 def shift_with_args
