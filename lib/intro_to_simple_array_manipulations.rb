@@ -26,6 +26,4 @@ def shift_with_args(array)
   shift_with_args = array.shift(2)
 end
 
-# Good Evening,
-#I have been stuck on the using_pop part of the lab for quite some time this afternoon. I started with creating an array matching the specs. Have used the array.pop to remove the last element and have come up with an error numerous times.
  
